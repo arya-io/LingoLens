@@ -1,6 +1,6 @@
 # LingoLens: Translator & Sentiment Analysis
 
-🌐 **LingoLens** is a Streamlit-based web application that provides two powerful language tools:
+**LingoLens** is a Streamlit-based web application that provides two powerful language tools:
 1. **Language Translation**: Translate text between a wide range of languages using the `deep-translator` library.
 2. **Sentiment Analysis**: Analyze the sentiment (positive, neutral, or negative) of a given text using `TextBlob`.
 
