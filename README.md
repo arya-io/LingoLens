@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Features
+## Features
 
 - **Language Translation**:  
   Translate text in real-time into over 100+ languages with the help of `GoogleTranslator`.
